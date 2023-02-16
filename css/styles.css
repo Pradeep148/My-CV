@@ -1,0 +1,28 @@
+/*
+comments in css
+*/
+body {
+  background-color: #ffffe8;
+}
+
+img {
+  height: 150px;
+}
+
+h1 {
+  color: #5b8fb9;
+}
+
+h3 {
+  color: #7b8fa1;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: rgb(115, 115, 88);
+  height: 0px;
+  background-color: transparent;
+  width: 4%;
+}
